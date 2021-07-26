@@ -1,0 +1,19 @@
+{
+    "name": "root/lzh-yg",
+    "description": "use for composer test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "lzh",
+            "email": "578436909@qq.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "LzhYgCt\\": "src/"
+        }
+    }
+
+}
