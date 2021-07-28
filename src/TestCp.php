@@ -6,6 +6,6 @@ class TestCp
 {
     public function __construct()
     {
-        echo "test composer get";
+        echo "test composer get amazing";
     }
 }
