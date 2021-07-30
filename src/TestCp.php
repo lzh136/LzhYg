@@ -6,6 +6,6 @@ class TestCp
 {
     public function __construct()
     {
-        echo "test composer get amazing 12312";
+        echo "MI ll a1";
     }
 }
