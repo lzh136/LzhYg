@@ -6,6 +6,6 @@ class TestCp
 {
     public function __construct()
     {
-        echo "弱小可怜ASDASDAFAFA";
+        echo "弱小可怜plkk";
     }
 }
