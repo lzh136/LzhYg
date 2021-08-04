@@ -6,6 +6,6 @@ class TestCp
 {
     public function __construct()
     {
-        echo "kkkkkkkkkkkkkkkk";
+
     }
 }
